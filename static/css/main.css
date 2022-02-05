@@ -1,0 +1,26 @@
+body {
+    margin:0;
+    font-family: sans-serif;
+    text-align:center;
+}
+.content h1 {
+    text-align:center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 50px;
+}
+table {
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 150%;
+    border: 1px;
+    border-collapse: collapse;
+}
+table tr th{
+    padding:10px 30px;
+    color:white;
+    background-color:rgb(26, 26, 26);
+}
+form {
+    display: inline-block;
+    padding:10px;
+}
